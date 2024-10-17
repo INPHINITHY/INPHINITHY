@@ -20,6 +20,7 @@ You'll catch me exploring new anime realms, leveling up in the gaming world, or 
 - **Email**: [austindwomoh23@augustana.edu](mailto:austindwomoh23@augustana.edu) | [dwomohaustin14@gmail.com](mailto:dwomohaustin14@gmail.com)  
 - **WhatsApp**: [Chat with me](https://wa.me/+13096314966)  
 - **Instagram**: [@INPHINITHY1](https://instagram.com/INPHINITHY1)
+- **Linkedin**:[Austin Dwomoh](https://www.linkedin.com/in/austin-dwomoh/)
 
 😄 **Pronouns**: He/Him  
 
