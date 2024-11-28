@@ -4,7 +4,7 @@
   Web development  and 3D animations
 
 -💡 **Skills in progress**:  
- Python programming, JavaScript, Blender animations, and building engaging web experiences. 
+   Python programming, JavaScript, Blender animations, and building engaging web experiences. 
 
 
 -📫 **Let’s connect**:  
