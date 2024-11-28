@@ -1,27 +1,19 @@
+# 👋 Hi, I’m **Austin**
 
-# 👋 Hi, I’m **INPHINITHY**
+🔭 **Currently exploring**:  
+Web development, game design, and creative coding.  
 
-🔭 **Currently diving deep into**:  
-Web development | Python programming | Gaming & Anime enthusiast
+💡 **Skills in progress**:  
+Python programming, JavaScript, Blender animations, and building engaging web experiences. 
 
-💻 **Skills in progress**:  
-Full-stack web development, Python scripting, and Discord bot building. 
 
-⚔️ **Challenges I'm always up for**:  
-Building innovative projects, mastering new frameworks, and crushing any coding bug that comes my way 🐛💥.
 
-💡 **Always looking to collaborate on**:  
-Cutting-edge projects where code meets creativity. Web apps, Python scripts, or even epic anime-inspired games—I'm ready to dive in! 🚀
+📫 **Let’s connect**:  
+- **Email**: [dwomohaustin14@gmail.com](mailto:dwomohaustin14@gmail.com)  
+- **Instagram**: [@INPHINITHY1](https://instagram.com/INPHINITHY1)  
+- **LinkedIn**: [Austin Dwomoh](https://www.linkedin.com/in/austin-dwomoh/)  
 
-🎮 **When I'm AFK**:  
-You'll catch me exploring new anime realms, leveling up in the gaming world, or just vibing with some chill tunes 🎧🎮. 
+⚡ **Fun fact**: Left-handed and always up for turning ideas into reality!  
 
-📫 **Let’s Connect!**  
-- **Email**: [austindwomoh23@augustana.edu](mailto:austindwomoh23@augustana.edu) | [dwomohaustin14@gmail.com](mailto:dwomohaustin14@gmail.com)  
-- **WhatsApp**: [Chat with me](https://wa.me/+13096314966)  
-- **Instagram**: [@INPHINITHY1](https://instagram.com/INPHINITHY1)
-- **Linkedin**:[Austin Dwomoh](https://www.linkedin.com/in/austin-dwomoh/)
-
-😄 **Pronouns**: He/Him  
-
-⚡ **Fun Fact**: I’m all about getting the job done early so I can kick back and relax. Got a challenge? I’m your guy. 😎🔥
+Languages & Tools:  
+Blender | Python | JavaScript | MySQL | Bootsrap | Photoshop  
