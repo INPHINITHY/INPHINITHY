@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Austin (Nana) Dwomoh
 
-**CS + Data Analytics @ Augustana College (’27)**  
+**CS + Data Analytics @ Augustana College (’28)**  
 Building web apps, automation tools, and occasionally breaking things to learn faster.
 
 - 🔭 **Now exploring:** Web dev with React/Next + Django, and a bit of 3D/Blender
@@ -15,7 +15,7 @@ Building web apps, automation tools, and occasionally breaking things to learn f
   `Django · React · RBAC · SQLite`  
   Built admin dashboards and JSON-driven workflows; integrating auth, events, and club mgmt.
 
-- **Ouroboros Invite** — Always-on Discord bot for tournament ops  
+- **Ouroboros ** — Always-on Discord bot for tournament ops  
   `Python (discord.py) · PM2 · SQLite`  
   Automates match records, reminders, and live media lookups via TMDb/HiAnime APIs.
 
@@ -30,15 +30,13 @@ Building web apps, automation tools, and occasionally breaking things to learn f
 ## 🧰 Skills
 
 **Languages:** Python, Java, SQL  
-**Web:** HTML, CSS, JavaScript, React, Next.js, Django, Tailwind, Bootstrap, Redux Toolkit, REST APIs  
+**Web:** HTML, CSS, JavaScript, React, Django, Tailwind, REST APIs  
 **Tools:** Git/GitHub, GitHub Actions (CI/CD), Apache2, cPanel, PM2, SQLite, VS Code, Photoshop  
 **Strengths:** Debugging, system setup, performance-minded refactors, getting features over the line
 
 ---
 
 ## 📈 What I care about
-
-- Shipping incrementally, measuring impact (latency, engagement, error rates)
 - Owning deployments (CI/CD), not just writing code
 - Clear logs, useful errors, and maintainable readmes
 
@@ -49,13 +47,14 @@ Building web apps, automation tools, and occasionally breaking things to learn f
 **Email:** dwomohaustin14@gmail.com  
 **LinkedIn:** [Austin Dwomoh](https://www.linkedin.com/in/austin-dwomoh/)  
 **Instagram:** [@INPHINITHY1](https://instagram.com/INPHINITHY1)  
-**GitHub:** [INPHINITHY](https://github.com/INPHINITHY)
 
 ---
 
 ## 📊 GitHub quick stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INPHINITHY&layout=compact)
+
+
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=INPHINITHY&show_icons=true)
 
 <!--
